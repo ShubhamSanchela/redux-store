@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redux-store/static/css/main.7c4e3d2f.chunk.css",
+    "main.js": "/redux-store/static/js/main.426f0d87.chunk.js",
+    "main.js.map": "/redux-store/static/js/main.426f0d87.chunk.js.map",
+    "runtime-main.js": "/redux-store/static/js/runtime-main.478bdc92.js",
+    "runtime-main.js.map": "/redux-store/static/js/runtime-main.478bdc92.js.map",
+    "static/js/2.8fc3c1b9.chunk.js": "/redux-store/static/js/2.8fc3c1b9.chunk.js",
+    "static/js/2.8fc3c1b9.chunk.js.map": "/redux-store/static/js/2.8fc3c1b9.chunk.js.map",
+    "static/js/3.8473184f.chunk.js": "/redux-store/static/js/3.8473184f.chunk.js",
+    "static/js/3.8473184f.chunk.js.map": "/redux-store/static/js/3.8473184f.chunk.js.map",
+    "index.html": "/redux-store/index.html",
+    "static/css/main.7c4e3d2f.chunk.css.map": "/redux-store/static/css/main.7c4e3d2f.chunk.css.map",
+    "static/js/2.8fc3c1b9.chunk.js.LICENSE.txt": "/redux-store/static/js/2.8fc3c1b9.chunk.js.LICENSE.txt",
+    "static/media/img.f6e77648.jpg": "/redux-store/static/media/img.f6e77648.jpg",
+    "static/media/shopping-cart.891d6e79.svg": "/redux-store/static/media/shopping-cart.891d6e79.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.478bdc92.js",
+    "static/js/2.8fc3c1b9.chunk.js",
+    "static/css/main.7c4e3d2f.chunk.css",
+    "static/js/main.426f0d87.chunk.js"
+  ]
+}
